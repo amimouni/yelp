@@ -1,0 +1,12 @@
+@import "utilities";
+@import "footer";
+@import "navbar";
+.container {
+  max-width: 500px;
+  margin: 0px auto;
+  padding: 0px 1rem;
+}
+
+li {
+  list-style: none;
+}
